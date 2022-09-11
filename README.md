@@ -21,3 +21,7 @@ In a terminal move inside the folder **docs**
 Run this command: `npx http-serve`
 
 Navigate to the URL defined by http-serve
+
+# Working demo
+
+[https://jlmonteagudo.github.io/crypto-price-app/](https://jlmonteagudo.github.io/crypto-price-app/)
