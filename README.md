@@ -14,9 +14,9 @@ This will display the file index.html that is using the **crypto-price** web com
 
 Run this command: `npm run build:web-components`
 
-Copy the folder **dist/web-components** inside the folder **demo**
+Copy the folder **dist/web-components** inside the folder **docs**
 
-In a terminal move inside the folder **demo**
+In a terminal move inside the folder **docs**
 
 Run this command: `npx http-serve`
 
